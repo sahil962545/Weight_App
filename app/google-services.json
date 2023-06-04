@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766088137626",
+    "project_id": "sahil-2b9dd",
+    "storage_bucket": "sahil-2b9dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766088137626:android:09f7570884b8c73367c823",
+        "android_client_info": {
+          "package_name": "com.example.weight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766088137626-iddsp1k8oc278dch5tm7qhtpllmg2ueu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFtxbW9KpnmThuC3uwpFjBMA-kY4FzAB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766088137626-iddsp1k8oc278dch5tm7qhtpllmg2ueu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
